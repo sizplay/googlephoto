@@ -1,0 +1,20 @@
+{
+    "mac": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-photo-mac-113245-authRole",
+            "UnauthRoleArn": "arn:aws:iam::118190840223:role/amplify-photo-mac-113245-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::118190840223:role/amplify-photo-mac-113245-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplify-photo-mac-113245-deployment",
+            "UnauthRoleName": "amplify-photo-mac-113245-unauthRole",
+            "StackName": "amplify-photo-mac-113245",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:118190840223:stack/amplify-photo-mac-113245/ad9accc0-25f5-11ea-9f1a-02df20fb76d4",
+            "AmplifyAppId": "d2wgm4cbm6zjrg"
+        },
+        "categories": {
+            "auth": {
+                "photo3fd9682b": {}
+            }
+        }
+    }
+}

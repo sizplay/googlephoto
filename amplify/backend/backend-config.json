@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"photo3fd9682b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
